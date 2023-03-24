@@ -1,0 +1,16 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.1.4/",
+    "preact": "https://esm.sh/preact@10.13.1",
+    "preact/": "https://esm.sh/preact@10.13.1/",
+    "preact-render-to-string": "https://esm.sh/*preact-render-to-string@5.2.6",
+    "@preact/signals": "https://esm.sh/*@preact/signals@1.1.3",
+    "@preact/signals-core": "https://esm.sh/*@preact/signals-core@1.2.3",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "$openapi": "https://esm.sh/openapi@1.0.1",
+    "$common-tags": "https://esm.sh/common-tags@1.8.2",
+    "$sse": "https://esm.sh/sse.js@0.6.1",
+    "nanoid": "https://esm.sh/nanoid@4.0.1"
+  }
+}
